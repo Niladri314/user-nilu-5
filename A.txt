@@ -1,1 +1,2 @@
 val1
+branch2
